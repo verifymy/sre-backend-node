@@ -2,7 +2,6 @@
 We want you to make this https://github.com/verifymy/sre-backend-node application run in a docker container, which can run on any machine that has docker installed.
 Setup a Kubernetes cluster in the GCP cloud and then deploy this application using any CI/CD tool of your choice.
 PS: If you don't want to use kubernetes on GCP you can use minikube or any other local kubernetes cluster.
-The application must run with the ingress of your choice and must be accessible via the internet.
 
 ## Optional:
 Note that the description is intentionally not fully detailed. You're free to make assumptions (as long as you spell them out clearly) and make your own improvements that you think might make sense.
